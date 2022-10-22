@@ -1,0 +1,26 @@
+п. 3.1
+select
+    cust.name as Customer,
+    managers.name as Manager
+from orders as orders
+inner join customers as cust
+       on cust.id = orders.customers_id
+left join managers as managers
+       on managers.id = cust.manager_id
+where
+       orders.date >= {d'2013-01-01'}
+group by
+       orders.customer_id, cust.name, manager.name
+having sum(amount) > 10000
+ 
+п. 3.2
+1)
+select * from employees where charindex('m', lower(emp_name)) > 0
+--или
+select * from employees where emp_name like '%m%'
+ 
+2)
+select dept_id, max(salary) from employees group by dept_id
+ 
+3)
+select emp_id from employees where salary in (select salary from employees group by salary having count(*) > 1)
