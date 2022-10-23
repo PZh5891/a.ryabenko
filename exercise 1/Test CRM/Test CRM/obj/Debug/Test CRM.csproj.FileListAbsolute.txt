@@ -1,0 +1,8 @@
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\obj\Debug\Test CRM.csproj.AssemblyReference.cache
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\obj\Debug\Test CRM.csproj.SuggestedBindingRedirects.cache
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\obj\Debug\Test CRM.csproj.CoreCompileInputs.cache
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\bin\Debug\Test CRM.exe.config
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\bin\Debug\Test CRM.exe
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\bin\Debug\Test CRM.pdb
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\obj\Debug\Test CRM.exe
+D:\Git\a.ryabenko\exercise 1\Test CRM\Test CRM\obj\Debug\Test CRM.pdb
