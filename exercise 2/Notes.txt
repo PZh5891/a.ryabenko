@@ -1,0 +1,38 @@
+Метод:
+------------------------------
+int highYear = endDate.Year;
+if (beginDate.Year % 4 == 0)
+{
+    highYear = beginDate.Year;
+}
+if (highYear % 4 == 0)
+{
+    DateTime feb = new DateTime(highYear, 2, 29);
+    return (feb >= beginDate && feb <= endDate);
+}
+else
+{
+    return false;
+}
+ 
+Кейсы:
+------------------------------
+beginDate = new DateTime(2018, 01, 01);
+endDate = new DateTime(2018, 07, 01);
+result = false;
+ 
+beginDate = new DateTime(2018, 06, 01);
+endDate = new DateTime(2019, 03, 01);
+result = false;
+ 
+beginDate = new DateTime(2020, 01, 01);
+endDate = new DateTime(2020, 10, 03);
+result = true;
+ 
+beginDate = new DateTime(2012, 01, 10);
+endDate = new DateTime(2013, 01, 10);
+result = true;
+ 
+beginDate = new DateTime(2016, 02, 29);
+endDate = new DateTime(2017, 01, 01);
+result = true;
