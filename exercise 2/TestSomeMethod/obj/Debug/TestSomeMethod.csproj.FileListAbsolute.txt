@@ -1,0 +1,8 @@
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\bin\Debug\TestSomeMethod.exe.config
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\bin\Debug\TestSomeMethod.exe
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\bin\Debug\TestSomeMethod.pdb
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\obj\Debug\TestSomeMethod.csproj.AssemblyReference.cache
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\obj\Debug\TestSomeMethod.csproj.SuggestedBindingRedirects.cache
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\obj\Debug\TestSomeMethod.csproj.CoreCompileInputs.cache
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\obj\Debug\TestSomeMethod.exe
+D:\Git\a.ryabenko\exercise 2\TestSomeMethod\obj\Debug\TestSomeMethod.pdb
